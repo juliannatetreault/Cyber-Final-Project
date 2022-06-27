@@ -16,8 +16,8 @@ This project focused on using the following skills to first exploit a system and
 
 <br />
 
-🔗 The full report can be viewed by clicking this [link](https://github.com/juliannatetreault/Cyber-Final-Project/blob/main/Presentation/final_engagement_presentation.pdf) or the slide deck image below:
+🔗 The full report outlining all of the Red Team, Blue Team, and Networking details can be viewed by clicking this [link](https://github.com/juliannatetreault/Cyber-Final-Project/blob/main/Presentation/final_engagement_presentation.pdf) or the slide deck image below:
 
 <br />
 
-[![Final Engagement Slide Deck - Image of First Slide](https://github.com/juliannatetreault/Cyber-Final-Project/blob/main/Images/final_engagment_image.png)](https://github.com/juliannatetreault/Cyber-Final-Project/blob/main/Presentation/final_engagement_presentation.pdf)
+[![Final Engagement Slide Deck - Image of First Slide](https://github.com/juliannatetreault/Cyber-Final-Project/blob/main/Images/final_engagement_image.png)](https://github.com/juliannatetreault/Cyber-Final-Project/blob/main/Presentation/final_engagement_presentation.pdf)
