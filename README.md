@@ -13,6 +13,14 @@ This project focused on using the following skills to first exploit a system and
 
 - Reporting, documentation, and communication.
 
+<br />
+
+🔗 Individual summary files for each portion of the project can be found by clicking on the files' link:
+- 🔺 Red Team Summary of Operations [link](https://github.com/juliannatetreault/Cyber-Final-Project/blob/main/Summaries/red_team_summary_of_operations.pdf)
+
+- 🔹 Blue Team Summary of Operations [link](https://github.com/juliannatetreault/Cyber-Final-Project/blob/main/Summaries/blue_team_summary_of_operations.pdf)
+
+- ▪️ Network Analysis Summary of Operations [link](https://github.com/juliannatetreault/Cyber-Final-Project/blob/main/Summaries/network_analysis_summary_of_operations.pdf)
 
 <br />
 
