@@ -1,5 +1,17 @@
-# Final Project (Red Team vs. Blue Team vs. Networking)
-Red Team vs. Blue Team vs. Networking Final Project for the UT Austin cybersecurity bootcamp.
+# Comprehensive Final Project
+Built using Microsoft Azure, this project consists of 6 VMs, including two target machines, a Ubuntu machine, a Kali Linux machine, an ELK Stack machine, and a HyperV machine, to carry out multiple exploits, followed by a comprehensive report including a hardening recommendation for the vulnerable machine. Additionally, this project required the use of Wireshark for network analysis and the use of Kibana to set up comprehensive monitoring and logging.
+
+This project focused on using the following skills to first exploit a system and then write a report for the exploited system:
+
+- Penetration testing with Kali Linux.
+
+- Log and incident analysis and monitoring with Kibana.
+
+- Network analysis with Wireshark.
+
+- System hardening and configuration.
+
+- Reporting, documentation, and communication.
 
 
 <br />
