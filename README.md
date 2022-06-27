@@ -4,7 +4,7 @@ Red Team vs. Blue Team vs. Networking Final Project for the UT Austin cybersecur
 
 <br />
 
-🔗 The full report can be viewed by clicking this [link](https://github.com/juliannatetreault/Cyber-Final-Project/blob/main/Presentation/final_engagement_presentation.pdf) or the slide deck image below:
+🔗 The full report outlining all of the Red Team, Blue Team, and Networking details can be viewed by clicking this [link](https://github.com/juliannatetreault/Cyber-Final-Project/blob/main/Presentation/final_engagement_presentation.pdf) or the slide deck image below:
 
 <br />
 
